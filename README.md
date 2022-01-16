@@ -4,6 +4,6 @@
 - [x] Funny
 - [x] Safe
 
-[Join my discord](https://discord.gg/635ysHGDG6)
+- [Join my discord](https://discord.gg/635ysHGDG6)
 <br />
-[My GitHub Profile](https://github.com/Th3Spl)
+- [My GitHub Profile](https://github.com/Th3Spl)

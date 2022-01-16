@@ -4,7 +4,7 @@
 - [x] Funny
 - [x] Safe
 
-###Simple Guide:
+### Simple Guide:
 You should have a discord RPC application 
 (you can create it on the discord developer portal!)
 So insert your Discord RPC data in the app 

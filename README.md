@@ -1,2 +1,7 @@
-# discordRPC-september-2021
-A new amazing tool for share your personal activities on discord !!
+# Discord RPC
+
+- [x] Simple
+- [x] Funny
+- [x] Safe
+
+[Join my discord](https://discord.gg/635ysHGDG6)
